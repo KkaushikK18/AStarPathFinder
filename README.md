@@ -102,6 +102,3 @@ Dijkstra is essentially A* with h(n) = 0. It explores nodes uniformly in all dir
 - CSS3 (Responsive grid layout)
 - Lucide React (Icons)
 
-## License
-
-MIT
